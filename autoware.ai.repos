@@ -2,48 +2,48 @@ repositories:
   autoware/common:
     type: git
     url: https://gitlab.com/autowarefoundation/autoware.ai/common.git
-    version: master
+    version: 1.12.0
   autoware/core_perception:
     type: git
     url: https://gitlab.com/autowarefoundation/autoware.ai/core_perception.git
-    version: master
+    version: 1.12.0
   autoware/core_planning:
     type: git
     url: https://gitlab.com/autowarefoundation/autoware.ai/core_planning.git
-    version: master
+    version: 1.12.0
   autoware/documentation:
     type: git
     url: https://gitlab.com/autowarefoundation/autoware.ai/documentation.git
-    version: master
+    version: 1.12.0
   autoware/messages:
     type: git
     url: https://gitlab.com/autowarefoundation/autoware.ai/messages.git
-    version: master
+    version: 1.12.0
   autoware/simulation:
     type: git
     url: https://gitlab.com/autowarefoundation/autoware.ai/simulation.git
-    version: master
+    version: 1.12.0
   autoware/utilities:
     type: git
     url: https://gitlab.com/autowarefoundation/autoware.ai/utilities.git
-    version: master
+    version: 1.12.0
   autoware/visualization:
     type: git
     url: https://gitlab.com/autowarefoundation/autoware.ai/visualization.git
-    version: master
+    version: 1.12.0
   drivers/awf_drivers:
     type: git
     url: https://gitlab.com/autowarefoundation/autoware.ai/drivers.git
-    version: master
+    version: 1.12.0
   citysim:
     type: git
     url: https://github.com/CPFL/osrf_citysim.git
-    version: master
+    version: 27bd05bc6c762b3ad8c9bb85f678d4b7ce7a27c5
   car_demo:
     type: git
     url: https://github.com/CPFL/car_demo.git
-    version: master
+    version: e364448fad421cb6244c9f828f978d8d877dcbf9
   drivers/ds4:
     type: git
     url: https://github.com/tier4/ds4.git
-    version: master
+    version: 5aa2f7f53a67992fffa7c801ed9c663a380b5d4a
