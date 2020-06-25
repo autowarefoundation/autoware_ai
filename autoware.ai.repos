@@ -1,39 +1,39 @@
 repositories:
   autoware/common:
     type: git
-    url: https://gitlab.com/autowarefoundation/autoware.ai/common.git
+    url: https://github.com/Autoware-AI/common.git
     version: 1.13.0-beta.1
   autoware/core_perception:
     type: git
-    url: https://gitlab.com/autowarefoundation/autoware.ai/core_perception.git
+    url: https://github.com/Autoware-AI/core_perception.git
     version: 1.13.0-beta.1
   autoware/core_planning:
     type: git
-    url: https://gitlab.com/autowarefoundation/autoware.ai/core_planning.git
+    url: https://github.com/Autoware-AI/core_planning.git
     version: 1.13.0-beta.1
   autoware/documentation:
     type: git
-    url: https://gitlab.com/autowarefoundation/autoware.ai/documentation.git
+    url: https://github.com/Autoware-AI/documentation.git
     version: master
   autoware/messages:
     type: git
-    url: https://gitlab.com/autowarefoundation/autoware.ai/messages.git
+    url: https://github.com/Autoware-AI/messages.git
     version: 1.13.0-beta.1
   autoware/simulation:
     type: git
-    url: https://gitlab.com/autowarefoundation/autoware.ai/simulation.git
+    url: https://github.com/Autoware-AI/simulation.git
     version: 1.13.0-beta.1
   autoware/utilities:
     type: git
-    url: https://gitlab.com/autowarefoundation/autoware.ai/utilities.git
+    url: https://github.com/Autoware-AI/utilities.git
     version: 1.13.0-beta.1
   autoware/visualization:
     type: git
-    url: https://gitlab.com/autowarefoundation/autoware.ai/visualization.git
+    url: https://github.com/Autoware-AI/visualization.git
     version: 1.13.0-beta.1
   drivers/awf_drivers:
     type: git
-    url: https://gitlab.com/autowarefoundation/autoware.ai/drivers.git
+    url: https://github.com/Autoware-AI/drivers.git
     version: 1.13.0-beta.1
   citysim:
     type: git
@@ -46,16 +46,4 @@ repositories:
   drivers/ds4:
     type: git
     url: https://github.com/tier4/ds4.git
-    version: master
-  vendor/lanelet2:
-    type: git
-    url: https://github.com/fzi-forschungszentrum-informatik/Lanelet2.git
-    version: d13cf9c86b9f01821a7242ef6652c0daed5a7d84
-  vendor/mrt_cmake_modules:
-    type: git
-    url: https://github.com/KIT-MRT/mrt_cmake_modules.git
-    version: 67a93bcfee4f7e9e39e79f138ecadbba5c8392b7
-  vendor/qpoases:
-    type: git
-    url: https://gitlab.com/autowarefoundation/autoware.ai/qpoases_vendor.git
     version: master
